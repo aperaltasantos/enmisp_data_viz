@@ -2,6 +2,7 @@
 
 # XIII Encontro Nacional de Médicos de Saúde Pública
 
+## Data visualization in R
 
 ### Learning objectives 
 
